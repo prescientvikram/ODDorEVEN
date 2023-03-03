@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vikramw\source\repos\oddoreven\oddoreven\source.cpp(8): warning C4102: 'std': unreferenced label
+  oddOreven.vcxproj -> C:\Users\vikramw\source\repos\oddOreven\x64\Debug\oddOreven.exe

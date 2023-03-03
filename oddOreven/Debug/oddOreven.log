@@ -1,0 +1,3 @@
+﻿  Source.cpp
+f:\pcr_pratice3\oddoreven\oddoreven\source.cpp(8): warning C4102: 'std': unreferenced label
+  oddOreven.vcxproj -> F:\PCR_pratice3\oddOreven\Debug\oddOreven.exe
